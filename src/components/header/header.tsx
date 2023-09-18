@@ -17,7 +17,7 @@ export default component$(() => {
               href="https://qwik.builder.io/docs/components/overview/"
               target="_blank"
             >
-              Docs
+              校友網
             </a>
           </li>
           <li>
